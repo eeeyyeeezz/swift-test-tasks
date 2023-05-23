@@ -4,3 +4,6 @@
 [submodule "Rocket-Launcher"]
 	path = Rocket-Launcher
 	url = https://github.com/eeeyyeeezz/Rocket-Launcher
+[submodule "PhoneStore"]
+	path = PhoneStore
+	url = https://github.com/eeeyyeeezz/PhoneStore

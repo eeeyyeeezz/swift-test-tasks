@@ -1,6 +1,4 @@
-# Тестовые задания которые я когда-то делал 
-
-## + PDF тестовых которые я не делал (˵ ͡° ͜ʖ ͡°˵)
+# Тестовые задания на позицию iOS разработчик 
 
 ### RandomUserGenerator
 
@@ -25,5 +23,14 @@
 
 ### Rocket Launcher
 
-[Требования к задаче](PDF/Kontur_Intership.pdf)
+- [Требования к задаче](PDF/Kontur_Intership.pdf)
+
+### Phone Store
+
+- [Требования к задаче](PDF/ECommerce.pdf)
+
+### PDF тестовых без реализации
+
+- [Чат](PDF/ECommerce.pdf)
+- [Валютный калькулятор](PDF/Calculator.pdf)
 
