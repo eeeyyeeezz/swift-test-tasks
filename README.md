@@ -29,8 +29,9 @@
 
 - [Требования к задаче](PDF/ECommerce.pdf)
 
-### PDF тестовых без реализации
+### Другие тестовые задания без реализации
 
 - [Чат](PDF/Chat.pdf)
 - [Валютный калькулятор](PDF/Calculator.pdf)
+- [Тестовое в tu-tu-ru](https://github.com/tutu-ru/hire_ios-test)
 
