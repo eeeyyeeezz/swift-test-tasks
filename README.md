@@ -2,7 +2,7 @@
 
 ## + PDF тестовых которые я не делал (˵ ͡° ͜ʖ ͡°˵)
 
-__RandomUserGenerator__
+### RandomUserGenerator
 
 <details>
   <summary>Требования к задаче</summary>
@@ -23,9 +23,7 @@ __RandomUserGenerator__
   
 </details>
 
-__RocketLauncher__
+### Rocket Launcher
 
 [Требования к задаче](PDF/Kontur_Intership.pdf)
 
-
-__Помогло? Поставь ⭐__
