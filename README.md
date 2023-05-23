@@ -31,6 +31,6 @@
 
 ### PDF тестовых без реализации
 
-- [Чат](PDF/ECommerce.pdf)
+- [Чат](PDF/Chat.pdf)
 - [Валютный калькулятор](PDF/Calculator.pdf)
 
