@@ -7,3 +7,6 @@
 [submodule "PhoneStore"]
 	path = PhoneStore
 	url = https://github.com/eeeyyeeezz/PhoneStore
+[submodule "Stock"]
+	path = Stock
+	url = https://github.com/eeeyyeeezz/Stock
