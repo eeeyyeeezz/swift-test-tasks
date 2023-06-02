@@ -38,7 +38,7 @@ ___Нажал на кнопку – получил нового юзера___
 
 ### Stock
 
-- [Требования к задаче](https://github.com/eeeyyeeezz/Stock/blob/main/Readme.md)
+- [Требования к задаче](https://github.com/eeeyyeeezz/Stock/blob/main/README.md)
 
 
 ### Другие тестовые задания без реализации
