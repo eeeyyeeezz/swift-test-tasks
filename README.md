@@ -32,7 +32,7 @@ ___Нажал на кнопку – получил нового юзера___
 
 ### Stock
 
-- [Требования к задаче](https://github.com/eeeyyeeezz/Stock)
+- [Требования к задаче](https://github.com/eeeyyeeezz/Stock/blob/main/Readme.md)
 
 
 ### Другие тестовые задания без реализации
