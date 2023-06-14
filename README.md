@@ -6,6 +6,22 @@ ___
 
 ___
 
+### Rocket Launcher
+
+- [Требования к задаче](PDF/Kontur_Intership.pdf)
+
+### Phone Store
+
+- [Требования к задаче](PDF/ECommerce.pdf)
+
+### Stock
+
+- [Требования к задаче](https://github.com/eeeyyeeezz/Stock)
+
+### SoloChat
+
+- [Требования к задаче](https://github.com/eeeyyeeezz/SoloChat/blob/main/README.md)
+
 ### RandomUserGenerator
 
 <details>
@@ -28,18 +44,6 @@ ___Нажал на кнопку – получил нового юзера___
   
 </details>
 
-### Rocket Launcher
-
-- [Требования к задаче](PDF/Kontur_Intership.pdf)
-
-### Phone Store
-
-- [Требования к задаче](PDF/ECommerce.pdf)
-
-### Stock
-
-- [Требования к задаче](https://github.com/eeeyyeeezz/Stock/blob/main/README.md)
-
 
 ### Другие тестовые задания без реализации
 
@@ -47,4 +51,5 @@ ___Нажал на кнопку – получил нового юзера___
 - [Валютный калькулятор](PDF/Calculator.pdf)
 - [Тестовое в tu-tu-ru](https://github.com/tutu-ru/hire_ios-test)
 - [Тестовое в KODE](https://github.com/appKODE/trainee-test-ios)
+- [Шар с предсказаниями](PDF/Ball.pdf)
 
