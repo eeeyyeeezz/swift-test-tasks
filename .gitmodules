@@ -13,3 +13,6 @@
 [submodule "RandomUserGenerator"]
         path = RandomUserGenerator
         url = https://github.com/eeeyyeeezz/RandomUserGenerator
+[submodule "UnsplashTestApp"]
+	path = UnsplashTestApp
+	url = https://github.com/eeeyyeeezz/UnsplashTestApp

@@ -22,6 +22,10 @@ ___
 
 - [Требования к задаче](https://github.com/eeeyyeeezz/SoloChat/blob/main/README.md)
 
+### UnsplashTestApp
+
+- [Требования к задаче](https://github.com/eeeyyeeezz/UnsplashTestApp/blob/main/README.md)
+
 ### RandomUserGenerator
 
 <details>
@@ -40,7 +44,6 @@ ___Нажал на кнопку – получил нового юзера___
 - Адрес
 - Телефон
 
-По оригинальным требованиям надо сделать это за 3-4 часа по-хорошему, на выполнение даются сутки
   
 </details>
 
